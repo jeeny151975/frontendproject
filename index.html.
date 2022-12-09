@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,7 +14,7 @@
 <body>
   <div class="container">
     <nav>
-       <img src="./assets/images/logo.svg" alt="logo">
+       <img src="./images/logo.svg" alt="logo">
        <ul class="nav-links">
           <li>Home</li>
           <li>News</li>
@@ -23,14 +22,14 @@
           <li>Trending</li>
           <li>Categories</li>
         </ul>
-        <img src="./assets/images/icon-menu.svg" alt="menu">        
+        <img src="./images/icon-menu.svg" alt="menu">        
     </nav>
     <main>
       <div class="main-container">
         <div class="main-blog">
           <picture>
-            <source media="(max-width:800px)" srcset="./assets/images/image-web-3-mobile.jpg">
-            <img src="./assets/images/image-web-3-desktop.jpg" alt="image">
+            <source media="(max-width:800px)" srcset="./images/image-web-3-mobile.jpg">
+            <img src="./images/image-web-3-desktop.jpg" alt="image">
           </picture>
           <div class="blog-info">
             <h1 class="blog-title">The Bright Future of Web 3.0?</h1>
@@ -72,7 +71,7 @@
         </div>
         <div class="top-blogs">
           <div class="top-blog">
-            <img src="./assets/images/image-retro-pcs.jpg" alt="">
+            <img src="./images/image-retro-pcs.jpg" alt="">
             <div class="top-info">
               <h2 class="num">01</h2>
               <h3 class="top-title">Reviving Retro PCs</h3>
@@ -80,7 +79,7 @@
             </div>
           </div>
           <div class="top-blog">
-            <img src="./assets/images/image-top-laptops.jpg" alt="">
+            <img src="./images/image-top-laptops.jpg" alt="">
             <div class="top-info">
               <h2 class="num">02</h2>
               <h3 class="top-title">Top 10 Laptops of 2022</h3>
@@ -88,7 +87,7 @@
             </div>
           </div>
           <div class="top-blog">
-            <img src="./assets/images/image-gaming-growth.jpg" alt="">
+            <img src="./images/image-gaming-growth.jpg" alt="">
             <div class="top-info">
               <h2 class="num">03</h2>
               <h3 class="top-title">The Growth of Gaming</h3>
